@@ -1,0 +1,101 @@
+h1{
+    background-color:aqua;
+    text-align: center;
+}
+
+body{
+    background: black;
+    margin: auto;
+
+.post{
+    background:white;
+    margin:auto;
+    width:35%;
+    border: 3px solid red;
+    flex-direction: column;
+    display:flex;
+   text-align: center;
+
+}
+
+.post-header{
+    display:flex;
+    align-items: center;
+    position:relative;
+}
+
+.post-header-icon {
+    display: flex;
+    align-items: center;
+    margin: 0px 15px;
+    
+}
+
+.post-header-icon i {
+    font-size: 30px; 
+    margin-right: 10px;
+}
+
+post-header-icons2 {
+    margin: 15px;
+    margin-left: auto;
+    font-size: 0px 15px;
+    
+
+}
+
+
+
+.post-header2 {
+    margin-right:auto;
+    font-size: 15px;
+    line-height: 2px
+    
+}
+
+.post-header-icons2 i {
+   font-size:45px;
+   margin: 0px 5px;
+}
+
+
+.post-img img {
+    width: 100%;
+
+}
+
+.post-img {
+
+    width:100%;
+
+}
+
+.post_icon1  {
+    display:flex;
+    font-size: 40px;
+    flex-wrap: nowrap;
+    padding-top: 19px;
+    letter-spacing: 13px;
+    margin-left: 16px;
+
+    
+}
+.fa-bookmark  {
+    margin-left:63%;
+}
+
+.post-body {
+  margin-top: 10px;
+  text-align: start;
+  margin-left: 2.5%;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
